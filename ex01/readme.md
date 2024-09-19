@@ -1,0 +1,1 @@
+Exercício 01 tem um problema que quando o número é muito grande, trava por  causa da reptição de listar toda a lista, logo foi criado o Exercício 2, baseado em propriedades matemáticas.
