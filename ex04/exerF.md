@@ -1,0 +1,1 @@
+A lógica da f seria número que começam com a letra D quando escritos por extenso, logo o próximo número seria 200 (duzentos), mas não consegui realizar um código para representar essa sequência.
